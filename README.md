@@ -9,9 +9,11 @@ this repository contains of:
     - breadboard
     - 5 servos
     - arduino 
+    
     I designed this circuit to control 5 servos by arduino, and they were connected by breadboard.
 
 - link of the code.
+
     -the code is not included in the readme file, however arduino was coded to control 5 servos to move in 90 degrees. 
 
 
