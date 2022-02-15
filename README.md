@@ -1,6 +1,6 @@
 # robot_arm_arduino_circut
 
-**task 1: robot arm crcuit**
+** robot arm crcuit**
 
 
 this repository contains of:
